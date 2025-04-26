@@ -1,1 +1,5 @@
+THIS IS NEW B FILE<<<<<<< HEAD
 this is b file
+=======
+this is new b file
+>>>>>>> bike
